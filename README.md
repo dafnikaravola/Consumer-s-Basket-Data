@@ -19,7 +19,7 @@ E-katanalotis is a web repository of all product prices available in Greek super
 
 Moreover, the website offers a weekly database of all the products included in the Consumer's Basket, for all participating merchants. The dataset is renewed every Wednesday.
 
-The datasets for all products (`prices.json`) and consumer's basket products (`basket.json`) were
+The dataset for all products  is `prices.json` and for consumer's basket products is `basket.json`.
 
 ## Important Findings
 
